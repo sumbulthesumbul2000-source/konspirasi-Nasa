@@ -17,7 +17,7 @@ Artikel ini akan membahas teori konspirasi seputar prediksi asteroid “planet k
 ## Apa Itu Asteroid “Planet Killer”?
 Dalam ilmu astronomi, asteroid “planet killer” adalah istilah populer untuk menyebut asteroid dengan ukuran sangat besar—umumnya berdiameter lebih dari **1 kilometer**—yang mampu menimbulkan kehancuran global jika bertabrakan dengan Bumi.  
 
-![[Asteroid](https://cdn.mos.cms.futurecdn.net/aWhRa8jDVCDWoUHvbadYEk-650-80.jpg.webp)
+![Asteroid](https://cdn.mos.cms.futurecdn.net/aWhRa8jDVCDWoUHvbadYEk-650-80.jpg.webp)
 
 Efek dari tabrakan asteroid sebesar itu bisa berupa:  
 - **Tsunami global** setinggi ratusan meter.  
