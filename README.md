@@ -1,7 +1,9 @@
 # Konspirasi NASA Menyembunyikan Asteroid "Planet Killer"
-![Logo NASA](https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg)
+
 
 ## Pendahuluan
+![Logo NASA](https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg)
+
 Sejak lama, NASA dikenal sebagai lembaga luar angkasa paling maju di dunia. Mereka menjadi garda terdepan dalam memantau pergerakan benda-benda langit yang berpotensi mengancam Bumi. Namun, di balik reputasi tersebut, muncul sebuah dugaan besar: *apakah NASA benar-benar selalu jujur kepada publik?*  
 
 Isu yang paling sering muncul adalah tentang keberadaan asteroid raksasa yang disebut sebagai **“planet killer”**—asteroid dengan ukuran dan kekuatan cukup besar untuk menghapus sebagian besar kehidupan di Bumi jika terjadi tabrakan. Beberapa kalangan percaya bahwa NASA sebenarnya sudah mengetahui potensi ancaman ini, tetapi memilih untuk **menyembunyikan informasi** dari masyarakat dengan alasan mencegah kepanikan global.  
@@ -14,6 +16,8 @@ Artikel ini akan membahas teori konspirasi seputar prediksi asteroid “planet k
 
 ## Apa Itu Asteroid “Planet Killer”?
 Dalam ilmu astronomi, asteroid “planet killer” adalah istilah populer untuk menyebut asteroid dengan ukuran sangat besar—umumnya berdiameter lebih dari **1 kilometer**—yang mampu menimbulkan kehancuran global jika bertabrakan dengan Bumi.  
+
+![[Asteroid](https://cdn.mos.cms.futurecdn.net/aWhRa8jDVCDWoUHvbadYEk-650-80.jpg.webp)
 
 Efek dari tabrakan asteroid sebesar itu bisa berupa:  
 - **Tsunami global** setinggi ratusan meter.  
